@@ -1,0 +1,58 @@
+h1 {
+  color: red;
+  background-color: rgb(22, 22, 22);
+  font-size: 7px;
+}
+
+p {
+  text-align: center;
+  font-size: 5px;
+  word-spacing: 30px;
+  color: rgb(112, 112, 112);
+  line-height: 40px;
+}
+
+p {
+}
+
+body {
+  background-color: rgb(22, 22, 22);
+}
+
+.p1 {
+  text-align: center;
+  font-size: 5px;
+  word-spacing: 5px;
+  color: rgb(112, 112, 112);
+  line-height: 40px;
+
+  border-width: 0.1px;
+  border-color: rgb(124, 124, 124);
+  border;
+
+  border-style: solid;
+
+  border;
+}
+
+.p2 {
+  text-align: center;
+  font-size: 10px;
+  word-spacing: 1px;
+  color: rgb(218, 218, 218);
+  line-height: 40px;
+}
+
+.img2{
+    width: 20px;
+}
+.img1{
+    width: 35px;
+    border-radius: 1px;
+    column-gap: 5;
+ 
+}
+
+.profile{
+    width: 30px;
+}

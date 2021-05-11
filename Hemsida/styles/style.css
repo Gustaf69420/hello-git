@@ -1,0 +1,32 @@
+nav {
+  display: flex;
+  font-size: 10px;
+  align-items: center;
+  justify-content: space-between;
+  height: 15px;
+  border-bottom: 0.4px solid rgb(105, 105, 105);
+  padding: 2px;
+}
+
+.menu {
+  display: flex;
+  font-size: 8px;
+  list-style-type: none;
+  column-gap: 10px;
+  color: rgb(145, 56, 56);
+  letter-spacing: 0.5px;
+}
+
+.logo {
+  color: rgb(133, 55, 55);
+  letter-spacing: 1px;
+}
+
+body {
+  background-color: rgb(255, 227, 151);
+}
+
+img {
+  width: 70px;
+  border-radius: 2px;
+}

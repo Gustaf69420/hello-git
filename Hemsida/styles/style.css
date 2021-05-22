@@ -3,7 +3,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   height: 100px;
-  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 1);
   padding: 0px 5%;
   position: fixed;
   width: 100%;
@@ -64,28 +64,28 @@ body {
 .img1 {
   position: absolute;
   left: 2%;
-  bottom: 100px;
+  bottom: 120px;
   width: 400px;
   border-radius: 22px;
 }
 .img2 {
   position: absolute;
   left: 44%;
-  bottom: 265px;
+  bottom: 285px;
   width: 400px;
   border-radius: 22px;
 }
 .img3 {
   position: absolute;
   left: 23%;
-  bottom: 410px;
+  bottom: 430px;
   width: 400px;
   border-radius: 22px;
 }
 .img4 {
   position: absolute;
   left: 23%;
-  bottom: 120px;
+  bottom: 140px;
   width: 400px;
   border-radius: 22px;
 }

@@ -67,25 +67,29 @@ body {
   bottom: 120px;
   width: 400px;
   border-radius: 22px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 1);
 }
 .img2 {
   position: absolute;
-  left: 44%;
+  left: 46%;
   bottom: 285px;
   width: 400px;
   border-radius: 22px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 1);
 }
 .img3 {
   position: absolute;
-  left: 23%;
+  left: 24%;
   bottom: 430px;
   width: 400px;
   border-radius: 22px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 1);
 }
 .img4 {
   position: absolute;
-  left: 23%;
+  left: 24%;
   bottom: 140px;
   width: 400px;
   border-radius: 22px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 1);
 }
